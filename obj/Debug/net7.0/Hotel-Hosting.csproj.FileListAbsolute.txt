@@ -1,0 +1,14 @@
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\bin\Debug\net7.0\Hotel-Hosting.exe
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\bin\Debug\net7.0\Hotel-Hosting.deps.json
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\bin\Debug\net7.0\Hotel-Hosting.runtimeconfig.json
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\bin\Debug\net7.0\Hotel-Hosting.dll
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\bin\Debug\net7.0\Hotel-Hosting.pdb
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\obj\Debug\net7.0\Hotel-Hosting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\obj\Debug\net7.0\Hotel-Hosting.AssemblyInfoInputs.cache
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\obj\Debug\net7.0\Hotel-Hosting.AssemblyInfo.cs
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\obj\Debug\net7.0\Hotel-Hosting.csproj.CoreCompileInputs.cache
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\obj\Debug\net7.0\Hotel-Hosting.dll
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\obj\Debug\net7.0\refint\Hotel-Hosting.dll
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\obj\Debug\net7.0\Hotel-Hosting.pdb
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\obj\Debug\net7.0\Hotel-Hosting.genruntimeconfig.cache
+C:\Dev\Projects\.NET Studies\Hotel-Hosting\obj\Debug\net7.0\ref\Hotel-Hosting.dll
